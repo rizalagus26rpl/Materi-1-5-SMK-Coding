@@ -11,4 +11,5 @@ Materi 4 Intent Result
 ![alt text](https://github.com/rizalagus26rpl/Materi-1-5-SMK-Coding/blob/master/ss/IntentResult_2.jpg?raw=true)
 ![alt text](https://github.com/rizalagus26rpl/Materi-1-5-SMK-Coding/blob/master/ss/IntentResult_3.jpg?raw=true)
 Materi 5 Fragment
-![alt text](https://github.com/rizalagus26rpl/Materi-1-5-SMK-Coding/blob/master/ss/First.jpg?raw=true)
+![alt text](https://github.com/rizalagus26rpl/Materi-1-5-SMK-Coding/blob/master/ss/First%20Fragment.jpg?raw=true)
+![alt text](https://github.com/rizalagus26rpl/Materi-1-5-SMK-Coding/blob/master/ss/Second%20Fragment.jpg?raw=true)
